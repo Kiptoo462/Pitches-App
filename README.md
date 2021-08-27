@@ -28,7 +28,7 @@ https://github.com/Kiptoo462/Pitches-App.git
 4. Launch `index.html`with browser
 
 ## Live link
-[Pitches-App]()
+[Pitches-App](https://github.com/Kiptoo462/Pitches-App.git)
 
 ## BDD
      The user should be able to ;
